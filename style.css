@@ -1,0 +1,38 @@
+@font-face {
+    font-family: croman;
+    src: url('assets/fonts/HersheyComplex.otf');
+}
+@font-face {
+    font-family: citalic;
+    src: url('assets/fonts/HersheyComplexItalic.otf');
+}
+@font-face {
+    font-family: cscript;
+    src: url('assets/fonts/HersheyComplexScript.otf');
+}
+
+body {
+    background-color: #f4ecd7;
+    font-family: cscript;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: cscript;
+    text-align: center;
+}
+
+h2 {
+    font-family: croman;
+    text-align: center;
+}
+
+h3 {
+    font-family: citalic;
+}
+
+ul {
+    font-family: croman;
+}
